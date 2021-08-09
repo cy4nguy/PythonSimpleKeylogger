@@ -1,5 +1,5 @@
 keyboard==0.13.4
 pypiwin32==223
-pywin32==225
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinrm==0.4.1
